@@ -13,7 +13,7 @@ The idea came from a printed list of recommended books prepared and circulated b
    Personalization: create personalized reading lists  
 
 ### Future Goals
-   User-to-user communication: rate titles, add comments/reviews  
+   P2P engagement: rate titles, add comments/reviews  
    Transactions: membership payments, email notifications  
 
 ### Technologies
