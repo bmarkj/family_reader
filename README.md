@@ -9,10 +9,11 @@ The idea came from a printed list of recommended books prepared and circulated b
 ### MVP Features
    User Access: create account with profile page, login, password reminder  
    Security: password protected, user privilege stratification, session timeout  
+   Database: data persistence, create/review/update/delete users and books  
    Search: filter by reading level and/or category, filter by Title or Author  
-   Book Profiling: present a page that gives all details of a selected title, e.g., title, author and description  
-   Personalization: create personalized reading lists  
-   User Engagement: blog  
+   API: return description of a selected book using Google Books API  
+   Engagement: personalized reading lists, blog  
+   
 
 ### Future Goals
    P2P engagement: rate titles, add comments/reviews  
