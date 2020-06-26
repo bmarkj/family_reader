@@ -7,10 +7,12 @@ This application, The Family Reader, will provide to them a curated list of titl
 The idea came from a printed list of recommended books prepared and circulated by home schooling families. It was not available online initially, and few knew about it. Although it was subsequently put online, it was--and remains--essentially non-interactive. Further, the titles are hard-coded into the HTML, which is inefficient.
 
 ### MVP Features
-   User Login: create account with profile page  
+   User Access: create account with profile page, login, password reminder  
+   Security: password protected, user privilege stratification, session timeout  
    Search: filter by reading level and/or category, filter by Title or Author  
-   Book Profile: present a page that gives all details of a selected title, e.g., title, author and description  
+   Book Profiling: present a page that gives all details of a selected title, e.g., title, author and description  
    Personalization: create personalized reading lists  
+   User Engagement: blog  
 
 ### Future Goals
    P2P engagement: rate titles, add comments/reviews  
