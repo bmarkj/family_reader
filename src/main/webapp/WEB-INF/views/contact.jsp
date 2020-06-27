@@ -61,10 +61,6 @@
 					<div class="col-md-12">
 						<div class="content">
 							<h1 class="page-name">Contact Us</h1>
-							<ol class="breadcrumb">
-								<li><a href="home">Home</a></li>
-								<li class="active">contact</li>
-							</ol>
 						</div>
 					</div>
 				</div>

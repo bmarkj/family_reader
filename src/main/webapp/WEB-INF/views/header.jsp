@@ -7,7 +7,25 @@
 			<div id="navbar" class="navbar-collapse collapse text-center">
 				<ul class="nav navbar-nav">
 					<li><a id="_index" href="index">Home</a></li>
-					<li><a id="_about" href="about">About</a></li>
+					<!-- Dropdown -->
+					<li class="dropdown dropdown-slide"><a href="#"
+						class="dropdown-toggle" data-toggle="dropdown"
+						data-hover="dropdown" data-delay="350" role="button"
+						aria-haspopup="true" aria-expanded="false">About<span
+							class="tf-ion-ios-arrow-down"></span>
+					</a>
+						<div class="dropdown-menu">
+							<div class="row">
+								<div class="col-lg-12">
+									<ul>
+										<li><a href="about">Our Story</a></li>
+										<li><a href="staffbios">Staff Profiles</a></li>
+										<li><a href="allmembers">Member List</a></li>
+									</ul>
+								</div>
+							</div>
+						</div></li>
+					<!-- Dropdown -->
 					<li><a id="_contact" href="contact">Contact</a></li>					
 					
 					<!-- Contingent Links -->

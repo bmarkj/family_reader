@@ -37,26 +37,12 @@
 <link rel="stylesheet"
 	href="static/plugins/bootstrap/css/bootstrap.min.css">
 
-<!-- Revolution Slider -->
-<link rel="stylesheet" type="text/css"
-	href="static/plugins/revolution-slider/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
-<link rel="stylesheet" type="text/css"
-	href="static/plugins/revolution-slider/revolution/fonts/font-awesome/css/font-awesome.css">
-
-<!-- REVOLUTION STYLE SHEETS -->
-<link rel="stylesheet" type="text/css"
-	href="static/plugins/revolution-slider/revolution/css/settings.css">
-<link rel="stylesheet" type="text/css"
-	href="static/plugins/revolution-slider/revolution/css/layers.css">
-<link rel="stylesheet" type="text/css"
-	href="static/plugins/revolution-slider/revolution/css/navigation.css">
-
 <!-- Main Stylesheet -->
 <link rel="stylesheet" href="static/css/style.css">
 
 </head>
 
-<body id="body">
+<body id="body" style="background-image: url('static/images/backgrounds/carousel_md.png');">
 
 	<section class="signin-page account">
 		<div class="container">

@@ -49,10 +49,10 @@
 					<div class="col-md-12">
 						<div class="content">
 							<h1 class="page-name">About Us</h1>
-							<ol class="breadcrumb">
-								<li><a href="#">Home</a></li>
-								<li class="active">About</li>
-							</ol>
+<!-- 							<ol class="breadcrumb"> -->
+<!-- 								<li><a href="#">Home</a></li> -->
+<!-- 								<li class="active">About</li> -->
+<!-- 							</ol> -->
 						</div>
 					</div>
 				</div>
@@ -64,69 +64,36 @@
 				<div class="row">
 					<div class="col-md-6">
 						<img class="img-responsive" src="static/images/about/bookwheel.jpg">
+						<br>
+						<img class="img-responsive" src="static/images/about/books2.jpg">
 					</div>
 					<div class="col-md-6">
 						<p>Home schooling parents and home schooled independent readers often have to grapple 
 						with finding suitable, challenging and varied reading materials. When trying to discover 
-						reading materials, they are typically on their own, or only have access to a limited 
+						reading materials, they are typically on their own or only have access to a limited 
 						number of other home schooling parents for recommendations. Even then, they normally 
 						don't have access to those other parents at the time when they need the advice.</p>
-						
+						<br>
 						<p>This application, The Family Reader, provides a curated list of titles that will cover 
 						all reading levels and many useful genres/subject categories. It is available online so 
 						users will never be constrained by time or by availability of access to resource persons.</p>
-						
+						<br>
 						<p>The idea for this web-based reading list came from a printed list of recommended books 
 						prepared and circulated by home schooling families. It was not available online initially, and 
 						few knew about it. Although it was subsequently put online in the mid-90's, it was non-interactive
 						and has never been updated. </p>
-						
+						<br>
 						<p>Recommendations for titles to be included in the collection can be made using the 
-						<a href="contact" style="color: blue;">Contact Form</a>.
+						<a href="contact" style="color: blue;">Contact Form</a>.</p>
+						<br>
+						<p>Thanks for stopping by to visit The Family Reader! We hope you find this a useful and valuable 
+						reference when trying to make decisions about what reading materials to select for your family!</p>
 					</div>
 				</div>
 			</div>
 		</section>
 	
-		<section class="team-members ">
-			<div class="container">
-				<div class="row">
-					<div class="title">
-						<h2>Team Members</h2>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-3">
-						<div class="team-member text-center">
-							<img class="img-circle" src="static/images/team/mark.jpg" height=200px; width=200px;>
-							<h4>Mark Brown</h4>
-							<p>Curator</p>
-						</div>
-					</div>
-					<div class="col-md-3">
-						<div class="team-member text-center">
-							<img class="img-circle" src="static/images/team/chloe2.jpg" height=200px; width=200px;>
-							<h4>Chloe McKenzie</h4>
-							<p>Reviewer</p>
-						</div>
-					</div>
-					<div class="col-md-3">
-						<div class="team-member text-center">
-							<img class="img-circle" src="static/images/team/mary.jpg" height=200px; width=200px;>
-							<h4>Mary Crawley</h4>
-							<p>Reviewer</p>
-						</div>
-					</div>
-					<div class="col-md-3">
-						<div class="team-member text-center">
-							<img class="img-circle" src="static/images/team/ilsa.jpg" height=200px; width=200px;>
-							<h4>Ilsa Lund</h4>
-							<p>Reviewer</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+
 		
 		<footer class="footer section text-center">
 			<div class="container">
