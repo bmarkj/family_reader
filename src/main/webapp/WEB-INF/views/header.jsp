@@ -20,7 +20,7 @@
 									<ul>
 										<li><a href="about">Our Story</a></li>
 										<li><a href="staffbios">Staff Profiles</a></li>
-										<li><a href="allmembers">Member List</a></li>
+										<li><a href="findmember">Find A Member</a></li>
 									</ul>
 								</div>
 							</div>

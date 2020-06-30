@@ -121,7 +121,6 @@
 	</section>
 
 
-
 	<!-- Essential Scripts =====================================-->
 
 	<!-- Main jQuery -->
@@ -144,6 +143,5 @@
 	<!-- Main Js File -->
 	<script src="static/js/script.js"></script>
 	
-
 </body>
 </html>

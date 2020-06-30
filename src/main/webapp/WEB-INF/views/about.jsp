@@ -113,5 +113,28 @@
 				</div>
 			</div>
 		</footer>
+		
+	<!-- Essential Scripts =====================================-->
+
+	<!-- Main jQuery -->
+	<script src="static/plugins/jquery/dist/jquery.min.js"></script>
+	<!-- Bootstrap 3.1 -->
+	<script src="static/plugins/bootstrap/js/bootstrap.min.js"></script>
+	<!-- Bootstrap Touchpin -->
+	<script
+		src="static/plugins/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.min.js"></script>
+
+	<!-- Instagram Feed Js -->
+	<script src="static/plugins/instafeed-js/instafeed.min.js"></script>
+
+	<!-- Video Lightbox Plugin -->
+	<script src="static/plugins/ekko-lightbox/dist/ekko-lightbox.min.js"></script>
+
+	<!-- Count Down Js -->
+	<script src="static/plugins/SyoTimer/build/jquery.syotimer.min.js"></script>
+
+	<!-- Main Js File -->
+	<script src="static/js/script.js"></script>
+		
 	</body>
 </html>

@@ -54,6 +54,13 @@ public class AppController {
 
 		return "about";
 	}
+	
+	@GetMapping("staffbios")
+	String getStaffBiosPage (Model model) {
+		
+		model.addAttribute("title", "About - Staff Profiles");
+		return "staffbios";
+	}
 
 	@GetMapping("contact")
 	String processContactPage(Model model) {
